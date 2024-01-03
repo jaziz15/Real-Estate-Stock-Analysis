@@ -4,7 +4,7 @@ This project includes exploratory analysis of several global real estate ETFs. E
 
 The project looks at ETFs from UK, USA, China, Japan, Australia, and Europe and can be used to gain a top level understanding of how the general real estate market is performing in these regions. 
 
-The notebook containing the code is named "Real Estate Stock Analysis" imports data from https://uk.finance.yahoo.com/ through yfinance python package and analyses price and volume trends across the various regions and visualises a several moving averages across the regions.  
+The notebook containing the code is named "Real Estate Stock Analysis" imports data from https://uk.finance.yahoo.com/ through the yfinance python package and analyses price and volume trends across the various regions and visualises a several moving averages. 
 
 A summary of the ETFs are shown below: 
 
